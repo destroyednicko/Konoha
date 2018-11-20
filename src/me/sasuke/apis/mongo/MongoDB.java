@@ -1,4 +1,4 @@
-package saiint.api.apis.mongo;
+package me.sasuke.apis.mongo;
 
 import java.util.ArrayList;
 import java.util.HashMap;
