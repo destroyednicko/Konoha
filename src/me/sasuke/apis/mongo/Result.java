@@ -1,4 +1,4 @@
-package saiint.api.apis.mongo;
+package me.sasuke.apis.mongo;
 
 import com.mongodb.DBObject;
 
