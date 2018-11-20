@@ -1,5 +1,5 @@
 # Konoha
-A public repo to developers. You cand find some interesting things here.
+A public repo with some useful stuff. Almost everything is written in PaperSpigot here (1.9+). You cand find some interesting things here.
 
 Maintained by Sasuke and GDD's members.
 
